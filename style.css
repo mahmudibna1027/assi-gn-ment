@@ -1,0 +1,62 @@
+* {
+    font-family: 'Inter', sans-serif;
+ margin: 0%;
+ padding: 0%;
+}
+
+.header{
+    background-image: url('../assi-gn-ment/resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-size: 1500px;
+    width: 1320px;
+height: 600px;
+margin: 50px 140px 0px 140px;
+border-radius: 13px;
+background-position: center;
+border-radius: 16px;
+margin-bottom: 120px;
+}
+.text{
+    color: aliceblue;
+    text-align: center;
+font-size: 50px;
+font-style: normal;
+font-weight: 900;
+}
+.text-t{
+    color: #FFF;
+text-align: center;
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+}
+.off{
+    color: #F00;
+
+text-align: center;
+font-size: 85px;
+font-weight: 700;
+margin-bottom: 20px;
+}
+.our{
+    color: #F00;
+text-align: center;
+font-size: 21px;;
+font-weight: 500;
+}
+.all{
+    color: #070211;
+text-align: center;
+font-size: 48px;
+font-weight: 700;
+margin-bottom: 80px;
+}
+#hpny{
+    width: 800px;
+height: 500px;
+}
+
+
+
+
+
