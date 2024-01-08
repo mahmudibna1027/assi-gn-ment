@@ -51,9 +51,16 @@ font-size: 48px;
 font-weight: 700;
 margin-bottom: 80px;
 }
-#hpny{
-    width: 800px;
-height: 500px;
+.img{
+    justify-content: center;
+}
+.welco-me{
+    background-image: url('../assi-gn-ment/resources/Vectorrr.png');
+}
+.place{
+    width: 1320px;
+height: 482px;
+background-color: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);;
 }
 
 
